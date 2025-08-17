@@ -1,4 +1,4 @@
-# scROT: Single-Cell RNA-seq Optimal Transport
+# scROT: Predicting Single-Cell Drug Responses with Optimal Transport: Bridging Bulk Pharmacogenomics and scRNA-seq Data
 
 ## Introduction
 scROT is a computational tool designed to integrate single-cell RNA sequencing (scRNA-seq) data with bulk RNA sequencing data using optimal transport (OT) theory. This method aims to address challenges in data integration, such as batch effects and differences in data modalities, by finding an optimal mapping between the two datasets.
